@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FaceProject DeviceType="9">
+    <Screen Title="多彩线条" Bitmap="">
+        <Widget Shape="31" Name="HH" X="-2" Y="25" Width="120" Height="180" Alpha="255" Visible_Src="0" Index_Src="1000911" DefaultIndex="0" BitmapList="(0):HH_0.png|(1):HH_1.png|(2):HH_2.png" />
+        <Widget Shape="31" Name="HL" X="80" Y="117" Width="120" Height="180" Alpha="255" Visible_Src="0" Index_Src="911" DefaultIndex="9" BitmapList="(0):HL_0.png|(1):HL_1.png|(2):HL_2.png|(3):HL_3.png|(4):HL_4.png|(5):HL_5.png|(6):HL_6.png|(7):HL_7.png|(8):HL_8.png|(9):HL_9.png" />
+        <Widget Shape="31" Name="MH" X="-5" Y="194" Width="120" Height="180" Alpha="255" Visible_Src="0" Index_Src="1211" DefaultIndex="2" BitmapList="(0):MH_0.png|(1):MH_1.png|(2):MH_2.png|(3):MH_3.png|(4):MH_4.png|(5):MH_5.png" />
+        <Widget Shape="31" Name="ML" X="80" Y="285" Width="120" Height="180" Alpha="255" Visible_Src="0" Index_Src="1111" DefaultIndex="8" BitmapList="(0):ML_0.png|(1):ML_1.png|(2):ML_2.png|(3):ML_3.png|(4):ML_4.png|(5):ML_5.png|(6):ML_6.png|(7):ML_7.png|(8):ML_8.png|(9):ML_9.png" />
+    </Screen>
+</FaceProject>
