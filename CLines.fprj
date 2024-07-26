@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <FaceProject DeviceType="9">
-    <Screen Title="多彩线条" Bitmap="preview.png">
+    <Screen Title="多彩线条" Bitmap="P1_preview.png">
         <Widget Shape="30" Name="Background" X="0" Y="0" Width="192" Height="490" Alpha="255" Visible_Src="0" Bitmap="P1_bg.png" />
         <Widget Shape="32" Name="HH_angle[5]" X="3" Y="28" Width="120" Height="180" Alpha="255" Digits="1" Alignment="2" Spacing="0" Blanking="0" Visible_Src="0" Value_Src="1000911" BitmapList="P1_HH_0.png|P1_HH_1.png|P1_HH_2.png|P1_HH_0.png|P1_HH_0.png|P1_HH_0.png|P1_HH_0.png|P1_HH_0.png|P1_HH_0.png|P1_HH_0.png|P1_HH_0.png" />
         <Widget Shape="32" Name="HL_angle[359]" X="80" Y="115" Width="120" Height="180" Alpha="255" Digits="1" Alignment="2" Spacing="0" Blanking="0" Visible_Src="0" Value_Src="911" BitmapList="P1_HL_0.png|P1_HL_1.png|P1_HL_2.png|P1_HL_3.png|P1_HL_4.png|P1_HL_5.png|P1_HL_6.png|P1_HL_7.png|P1_HL_8.png|P1_HL_9.png|P1_HL_0.png" />
