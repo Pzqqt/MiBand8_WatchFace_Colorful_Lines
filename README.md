@@ -2,7 +2,10 @@
 
 ## Preview
 
-![](images/preview.png)
+![](images/P1_preview.png)
+![](images/P2_preview.png)
+![](images/P3_preview.png)
+![](images/P4_preview.png)
 
 ## How to compile?
 
