@@ -9,13 +9,11 @@
 
 ## How to compile?
 
-1. Download [EasyFace](https://github.com/m0tral/EasyFace). Then decompress it.
+1. Download [EasyFace v4.11](https://miwatch.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV411.zip). Then decompress it.
 2. Edit the `DeviceInfo.db` file in the EasyFace directory in text format.
 
 > 1. Find the section for `Mi Band 8`;
-> 2. Change the ID of `Hour High` to `1000911`;
-> 3. (Optional) Change the ID of `Second High` to `1001911`;
-> 4. Add new lines in the `SourceDataList` section:
+> 2. Add new lines in the `SourceDataList` section:
 
 ```xml
 <SRC ID="1912"    Name="Day Low"                  FaceProgramma_Version="0" Device_Version="1.0.0" UsingNewFileTypeID_En="0" Tip=""/>
