@@ -16,8 +16,6 @@
 > 2. Add new lines in the `SourceDataList` section:
 
 ```xml
-<SRC ID="1912"    Name="Day Low"                  FaceProgramma_Version="0" Device_Version="1.0.0" UsingNewFileTypeID_En="0" Tip=""/>
-<SRC ID="1001912" Name="Day High"                 FaceProgramma_Version="0" Device_Version="1.0.0" UsingNewFileTypeID_En="0" Tip=""/>
 <SRC ID="1112"    Name="Month Low"                FaceProgramma_Version="0" Device_Version="1.0.0" UsingNewFileTypeID_En="0" Tip=""/>
 <SRC ID="1212"    Name="Month High"               FaceProgramma_Version="0" Device_Version="1.0.0" UsingNewFileTypeID_En="0" Tip=""/>
 <SRC ID="0941"    Name="Battery percent ones"     FaceProgramma_Version="0" Device_Version="1.0.0" UsingNewFileTypeID_En="0" Tip=""/>
