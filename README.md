@@ -9,7 +9,7 @@
 
 ## How to compile?
 
-1. Download [EasyFace v4.11](https://miwatch.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV411.zip). Then decompress it.
+1. Download [EasyFace v4.15](https://github.com/m0tral/EasyFace/releases/tag/v4.15). Then decompress it.
 2. Edit the `DeviceInfo.db` file in the EasyFace directory in text format.
 
 > 1. Find the section for `Mi Band 8`;
